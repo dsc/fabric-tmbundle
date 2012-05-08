@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>fabfile.py</string>
+	</array>
+	<key>firstLineMatch</key>
+	<string>^#!\s*(/.*?)?\bfab\b</string>
+	<key>foldingStartMarker</key>
+	<string>^\s*(def|class)\s+([.a-zA-Z0-9_ &lt;]+)\s*(\((.*)\))?\s*:|\{\s*$|\(\s*$|\[\s*$|^\s*"""(?=.)(?!.*""")</string>
+	<key>foldingStopMarker</key>
+	<string>^\s*$|^\s*\}|^\s*\]|^\s*\)|^\s*"""\s*$</string>
+	<key>keyEquivalent</key>
+	<string>^~F</string>
+	<key>name</key>
+	<string>fabfile.py</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.python</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.python.fabric</string>
+	<key>uuid</key>
+	<string>C8E4CC77-4027-4466-8022-7053601EA438</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>from fabric.api import *</string>
+	<key>name</key>
+	<string>import fabric.api</string>
+	<key>scope</key>
+	<string>source.python.fabric</string>
+	<key>tabTrigger</key>
+	<string>imp</string>
+	<key>uuid</key>
+	<string>96D8F55A-34CB-49D3-9AAB-697CA4BF9466</string>
+</dict>
+</plist>
